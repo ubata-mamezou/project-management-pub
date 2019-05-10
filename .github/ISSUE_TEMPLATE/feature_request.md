@@ -4,7 +4,7 @@ about: Suggest an idea for this project
 title: ''
 labels: ''
 assignees: ''
-projects: 'プロジェクト管理'
+projects: '繝励Ο繧ｸ繧ｧ繧ｯ繝育ｮ｡逅�'
 
 ---
 
